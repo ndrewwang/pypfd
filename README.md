@@ -1,3 +1,5 @@
 # pypfd: Generate process flow diagrams with python
 
-Creates a simplified wrapper over https://github.com/aslake/simplepfd
+* Creates a simplified wrapper over https://github.com/aslake/simplepfd
+
+* Uses the drawio jupyter notebook widget to view xml-pfd live within jupyter
