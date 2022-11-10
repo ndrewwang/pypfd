@@ -1,0 +1,5 @@
+# Ignore this too
+.DS_Store
+/.ipynb_checkpoints
+__pycache__
+/make_reqs
