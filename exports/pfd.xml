@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mxfile agent="pchemeng.tools.simplepfd" etag="Ym8JUHmCbybyuN_C31Ly" host="app.diagrams.net" modified="2022-11-10 10:08:41.777765" type="device" version="12.9.13">
+ <diagram id="S1Gz87AjEctzsXtTaDJA" name="Page-1">
+  <mxGraphModel arrows="1" connect="1" dx="1422" dy="757" fold="1" grid="1" gridSize="10" guides="1" math="0" page="1" pageHeight="1100" pageScale="1" pageWidth="850" shadow="0" tooltips="1">
+   <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell edge="1" id="&lt;b&gt;6&lt;/b&gt;" parent="1" source="&lt;b&gt;Thermal treatment&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=1;fontColor=none;" target="&lt;b&gt;Filtration&lt;/b&gt;" type="Line" value="&lt;b&gt;6&lt;/b&gt;">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell edge="1" id="&lt;b&gt;3&lt;/b&gt;" parent="1" source="&lt;b&gt;Filtration&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=1;fontColor=none;" target="&lt;b&gt;Leach&lt;/b&gt;" type="Line" value="&lt;b&gt;3&lt;/b&gt;">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell edge="1" id="&lt;b&gt;Carbon&lt;/b&gt;" parent="1" source="&lt;b&gt;Filtration&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=0;" target="&lt;b&gt;2&lt;/b&gt;" type="Line" value="&lt;b&gt;Carbon&lt;/b&gt;">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;2&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;strokeColor=none;fillColor=none;" type="Unit" value="" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="30" y="30"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;Filtration&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;" type="Unit" value="&lt;b&gt;Filtration&lt;/b&gt;" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="60" y="60"/>
+    </mxCell>
+    <mxCell edge="1" id="&lt;b&gt;Leachant TESTEST&lt;/b&gt;&lt;br&gt;H2SO4&lt;br&gt;H2O2" parent="1" source="&lt;b&gt;1&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=0;" target="&lt;b&gt;Leach&lt;/b&gt;" type="Line" value="&lt;b&gt;Leachant TESTEST&lt;/b&gt;&lt;br&gt;H2SO4&lt;br&gt;H2O2">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;1&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;strokeColor=none;fillColor=none;" type="Unit" value="" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="90" y="90"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;Leach&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;" type="Unit" value="&lt;b&gt;Leach&lt;/b&gt;" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="120" y="120"/>
+    </mxCell>
+    <mxCell edge="1" id="&lt;b&gt;Out gas&lt;/b&gt;&lt;br&gt;organics&lt;br&gt;fluoride" parent="1" source="&lt;b&gt;Thermal treatment&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=0;" target="&lt;b&gt;5&lt;/b&gt;" type="Line" value="&lt;b&gt;Out gas&lt;/b&gt;&lt;br&gt;organics&lt;br&gt;fluoride">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell edge="1" id="&lt;b&gt;Black mass&lt;/b&gt;" parent="1" source="&lt;b&gt;4&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movableLabel=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=gap;jumpSize=10;strokeWidth=1;strokeColor=black;noLabel=0;" target="&lt;b&gt;Thermal treatment&lt;/b&gt;" type="Line" value="&lt;b&gt;Black mass&lt;/b&gt;">
+     <mxGeometry as="geometry" relative="1"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;5&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;strokeColor=none;fillColor=none;" type="Unit" value="" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="150" y="150"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;Thermal treatment&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;" type="Unit" value="&lt;b&gt;Thermal treatment&lt;/b&gt;" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="180" y="180"/>
+    </mxCell>
+    <mxCell id="&lt;b&gt;4&lt;/b&gt;" parent="1" style="whiteSpace=wrap;html=1;movableLabel=1;aspect=fixed;strokeColor=none;fillColor=none;" type="Unit" value="" vertex="1">
+     <mxGeometry as="geometry" height="80" width="80" x="210" y="210"/>
+    </mxCell>
+   </root>
+  </mxGraphModel>
+ </diagram>
+</mxfile>
